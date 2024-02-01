@@ -1,1 +1,3 @@
-# Seja bem vindo ao meu github, é um prazer ter você aqui. 🥰🥰
+# Olá, é um prazer ter você aqui. 🥰🥰 :wave:
+
+<img src="" alt="seja bem vindo">
